@@ -122,7 +122,7 @@ Continuous learning through retraining with new incoming data batches.
 
 Detailed error analysis using Confusion Matrix to identify common misclassifications.
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/90a95605-4123-422b-87b7-b454c304094d" /><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6e125818-85d4-48f7-9238-a78b170e1433" />
+
 
 
 
@@ -146,10 +146,3 @@ Sensor dataset providers for wafer reading examples.
 
 Developers of Scikit-learn, NumPy, Pandas, and Matplotlib for core tools.
 
-📧 Contact
-For support, collaboration, or questions, reach out via email:
-omk99919@gmail.com
-
-📜 License
-This project is licensed under the MIT License — you may use, modify, and distribute it with attribution.
-See the LICENSE file for details.
